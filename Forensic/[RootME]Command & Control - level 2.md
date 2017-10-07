@@ -17,5 +17,7 @@ using strings ch2.dmp | grep computer, you can find hostname.
 
 COMPUTERNAME=WIN-ETSA91RKCFP
 
+Written by blueksg0307@gmail.com
+
 
 
