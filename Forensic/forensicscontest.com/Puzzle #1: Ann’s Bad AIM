@@ -1,0 +1,19 @@
+---------------------------------------------------------------Description ---------------------------------------------------------------
+
+Anarchy-R-Us, Inc. suspects that one of their employees, Ann Dercover, is really a secret agent working for their competitor. Ann has access to the company’s prize asset, the secret recipe. Security staff are worried that Ann may try to leak the company’s secret recipe.
+Security staff have been monitoring Ann’s activity for some time, but haven’t found anything suspicious– until now. Today an unexpected laptop briefly appeared on the company wireless network. Staff hypothesize it may have been someone in the parking lot, because no strangers were seen in the building. Ann’s computer, (192.168.1.158) sent IMs over the wireless network to this computer. The rogue laptop disappeared shortly thereafter.
+“We have a packet capture of the activity,” said security staff, “but we can’t figure out what’s going on. Can you help?”
+
+You are the forensic investigator. Your mission is to figure out who Ann was IM-ing, what she sent, and recover evidence including:
+1. What is the name of Ann’s IM buddy?
+2. What was the first comment in the captured IM conversation?
+3. What is the name of the file Ann transferred?
+4. What is the magic number of the file you want to extract (first four bytes)?
+5. What was the MD5sum of the file?
+6. What is the secret recipe?
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Download   : http://forensicscontest.com/contest01/evidence01.pcap
+Answer     : http://blog.naver.com/sunkwang0307/221132734984
+written by : blueksg0307@gmail.com
