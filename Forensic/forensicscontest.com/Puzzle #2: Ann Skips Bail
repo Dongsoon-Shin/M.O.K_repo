@@ -1,0 +1,24 @@
+After being released on bail, Ann Dercover disappears! Fortunately, investigators were carefully monitoring her network activity before she skipped town.
+
+“We believe Ann may have communicated with her secret lover, Mr. X, before she left,” says the police chief. “The packet capture may contain clues to her whereabouts.”
+
+You are the forensic investigator. Your mission is to figure out what Ann emailed, where she went, and recover evidence including:
+
+1. What is Ann’s email address?
+2. What is Ann’s email password?
+3. What is Ann’s secret lover’s email address?
+4. What two items did Ann tell her secret lover to bring?
+5. What is the NAME of the attachment Ann sent to her secret lover?
+6. What is the MD5sum of the attachment Ann sent to her secret lover?
+7. In what CITY and COUNTRY is their rendez-vous point?
+8. What is the MD5sum of the image embedded in the document?
+
+Please use the Official Submission form to submit your answers. Prize TBD. Prize will be a Lenovo IdeaPad S10-2 – just like the free netbooks Sec558 students will get in Orlando.
+
+Here is your evidence file:
+
+http://forensicscontest.com/contest02/evidence02.pcap
+MD5 (evidence02.pcap) = cfac149a49175ac8e89d5b5b5d69bad3
+
+
+solution:http://blog.naver.com/sunkwang0307/221134445949
