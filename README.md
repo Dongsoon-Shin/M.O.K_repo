@@ -24,4 +24,4 @@
 6. 코드가 있을 경우, 코드는 다른 파일로 작성하여 올립니다.
    - ex) Pwnable_Write_up.pdf, Pwnable_sol.py
 ```
-@DongSoonShin
+@hideroot
