@@ -1,13 +1,13 @@
 ﻿# M.O.K Write Up repo
 ### Member
-```
-* Pwn : @kims123(main) @DongSoonShin (sub) @blueksg0307 (sub)
+
+* Pwn : @kims123 (main) @DongSoonShin (sub) @blueksg0307 (sub)
 * Rev : @HoYeulLee (main) @kims123 (sub)
 * Web : @f0ferror (main) @shamuxu (main) @km91hsm (main) @KangByeongYun (sub)
 * For : @blueksg0307 (main)
 * Cry : @DongSoonShin (main)
 * PPC : @KangByeongYun (main) @HoYeulLee (sub)
-```
+
 ### Write up 작성시 주의 사항
 ```
 1. 모든 Write Up 문서는 PDF로 Upload 합니다.
@@ -24,3 +24,4 @@
 6. 코드가 있을 경우, 코드는 다른 파일로 작성하여 올립니다.
    - ex) Pwnable_Write_up.pdf, Pwnable_sol.py
 ```
+@DongSoonShin
