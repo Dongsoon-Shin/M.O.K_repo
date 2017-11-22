@@ -29,7 +29,7 @@
  - [ ] hxp CTF 2017	17 11월, 21:00 KST — 19 11월 2017, 21:00 KST	Jeopardy
  - [ ] RC3 CTF 2017	18 11월, 11:00 KST — 20 11월 2017, 13:59 KST	Jeopardy
  - [ ] ~~TUCTF 2017~~	25 11월, 08:00 KST — 27 11월 2017, 08:00 KST	Jeopardy
- - [ ] ~~Juniors CTF~~	02 12월, 01:00 KST — 04 12월 2017, 01:00 KST	Jeopardy
+ - [x] Juniors CTF	02 12월, 01:00 KST — 04 12월 2017, 01:00 KST	Jeopardy
  - [ ] RuCTFE 2017	02 12월, 19:00 KST — 03 12월 2017, 04:00 KST	**Attack-Defense**
  - [ ] Takoma Park CTF	03 12월, 02:00 KST — 04 12월 2017, 14:00 KST	Jeopardy
  - [x] **SECCON 2017 Online CTF**	09 12월, 15:00 KST — 10 12월 2017, 15:00 KST	Jeopardy
