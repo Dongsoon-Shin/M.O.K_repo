@@ -2,11 +2,11 @@
 ### Member
 
 * Pwn : kims123 (main) DongSoonShin (sub) blueksg0307 (sub)
-* Rev : ~~HoYeulLee (main)~~ kims123 (sub) shamuxu (sub)
+* Rev : pandakim2122(main) kims123 (sub) shamuxu (sub)
 * Web : f0ferror (main) shamuxu (main) km91hsm (main) KangByeongYun (sub)
 * For : blueksg0307 (main) km91hsm (main)
 * Cry : DongSoonShin (main)
-* PPC : KangByeongYun (main) ~~HoYeulLee (sub)~~
+* PPC : KangByeongYun (main)
 
 ### Write up 작성시 주의 사항
 ```
