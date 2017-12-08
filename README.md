@@ -1,7 +1,7 @@
 ﻿# M.O.K Write Up repo
 ### Member
 
-* Pwn : kims123 (main) DongSoonShin (sub) blueksg0307 (sub)
+* Pwn : kims123 (main) sexbomb(main) DongSoonShin (sub) blueksg0307 (sub)
 * Rev : pandakim2122(main) kims123 (sub) shamuxu (sub)
 * Web : f0ferror (main) shamuxu (main) km91hsm (main) KangByeongYun (sub)
 * For : blueksg0307 (main) km91hsm (main)
